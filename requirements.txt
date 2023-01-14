@@ -4,7 +4,7 @@
 Flask
 spacy
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0.tar.gz
-line-bot-sdk
+line-bot-sdk==2.28.1
 pydantic==1.10.2
 # ----------------------
 # Testing
